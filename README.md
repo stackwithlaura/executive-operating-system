@@ -1,4 +1,6 @@
-# Executive Operating System (EOS)
+# Proof & Standard
+
+### The Executive Operating System for Building Growth Organizations
 
 > A practical framework for building scalable growth organizations through strategy, marketing, customer insight, operational excellence, and leadership.
 
