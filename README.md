@@ -69,25 +69,47 @@ Real-world applications demonstrating how frameworks become execution.
 
 ---
 
-## Current Roadmap
+## Development Roadmap
 
-This project is under active development.
+The Executive Operating System is being developed in modules. Each framework is designed to solve a specific leadership, operational, or growth challenge while integrating with the broader system.
 
-Initial priorities include:
+### Executive Operations
+- ✅ Executive Dashboard
+- ⬜ Strategic Intake Framework
+- ⬜ Executive Prioritization Framework
+- ⬜ Executive Meeting Rhythm
+- ⬜ Decision Log
+- ⬜ Executive Notebook
 
-- Executive Dashboard
-- CEO Notebook
-- Brand Audit Framework
-- Marketing Audit Framework
-- Communications Audit
-- Voice of Customer Framework
-- Customer Story Engine
-- Competitive Intelligence Framework
-- Customer Journey Framework
-- KPI Dashboard
-- Executive Meeting Framework
-- Quarterly Business Review
-- Customer Expansion Playbook
+### Growth Strategy
+- ⬜ Annual Planning Framework
+- ⬜ Quarterly Business Review
+- ⬜ KPI Framework
+- ⬜ Strategic Planning Framework
+
+### Brand
+- ⬜ Brand Audit
+- ⬜ Messaging Framework
+- ⬜ Positioning Framework
+- ⬜ Thought Leadership Framework
+
+### Customer
+- ⬜ Voice of Customer
+- ⬜ Customer Journey Framework
+- ⬜ Customer Story Engine
+- ⬜ Customer Expansion Framework
+
+### Sales
+- ⬜ Sales Enablement
+- ⬜ Account-Based Marketing
+- ⬜ Executive Briefings
+- ⬜ Competitive Intelligence
+
+### Marketing
+- ⬜ Marketing Audit
+- ⬜ Communications Audit
+- ⬜ Content Engine
+- ⬜ Trade Show Strategy
 
 ---
 
